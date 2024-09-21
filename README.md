@@ -6,6 +6,13 @@ databases safe from unauthorized users. Many people have their passwords floatin
 
 I also designed the algorithm because I literally have too much free time on my hands. I hope this is good enough to protect your or your consumers' passwords.
 
+## How it works
+This algorithm works by passing your data through 3 different custom made hashing algorithms, each algorithm 
+repeatedly hashes your data from 100-1000 times, this is to make it computationally difficult to crack. 
+
+This takes about an average of 45.31 seconds and the output is a 2048 bit hash, if I am not mistaken. 
+I can't go into dept on how each hashing algorithm works as both are very complex.
+
 ## Usage
 Run commands in terminal.
 ```bash
