@@ -1,7 +1,7 @@
 # USHA-2048
 
 ## About
-USHA-2048 is a 2048-bit hashing algorithm created by AK/werdane. This is designed to help corporations, small businesses and individual users to keep their
+USHA-2048 is a 2048-bit hashing algorithm created by AK. This is designed to help corporations, small businesses and individual users to keep their
 databases safe from unauthorized users. Many people have their passwords floating out there on the internet due to companies and businesses not having a strong encryption for their user's personal information such as emails, billing, passwords, etc.
 
 I also designed the algorithm because I literally have too much free time on my hands. I hope this is good enough to protect your or your consumers' passwords.
